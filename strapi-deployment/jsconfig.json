@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // or your target version
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
